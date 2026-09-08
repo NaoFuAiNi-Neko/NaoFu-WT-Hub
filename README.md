@@ -14,6 +14,7 @@ War Thunder custom font & UI — local Windows client
 <br/>
 
 [![Website](https://img.shields.io/badge/Website-naofuaini.com-38bdf8?style=flat-square)](https://naofuaini.com/)
+[![Discord](https://img.shields.io/badge/Discord-NaoFu-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/MMxXWFW7YA)
 [![GitHub Release](https://img.shields.io/github/v/release/NaoFuAiNi-Neko/NaoFu-WT-Hub?style=flat-square)](https://github.com/NaoFuAiNi-Neko/NaoFu-WT-Hub/releases)
 [![Downloads](https://img.shields.io/github/downloads/NaoFuAiNi-Neko/NaoFu-WT-Hub/total?style=flat-square&label=GitHub%20downloads)](https://github.com/NaoFuAiNi-Neko/NaoFu-WT-Hub/releases)
 [![License](https://img.shields.io/badge/Builds-Signed%20only-22c55e?style=flat-square)](https://naofuaini.com/)
@@ -64,12 +65,13 @@ NaoFu WT Hub 是面向《战争雷霆》的 **Windows 本地工具**：
 
 - B 站：[NaoFu 空间](https://space.bilibili.com/405046590)
 - QQ 群：`941587776`
+- Discord：https://discord.gg/MMxXWFW7YA
 
 ### 说明
 
 - 安装包未做 Authenticode 代码签名，Windows 可能提示「未知发布者」，属预期。  
 - macOS 版仍在施工。  
-- 本镜像仓 **不提供源码、不接受 PR**；问题反馈请走官网 / QQ 群 / B 站。
+- 本镜像仓 **不提供源码、不接受 PR**；问题反馈请走官网 / QQ 群 / B 站 / Discord。
 
 ---
 
@@ -100,6 +102,7 @@ This repository is a **signed-release mirror only** (no source code). GitHub Rel
 
 - Bilibili: [NaoFu](https://space.bilibili.com/405046590)
 - QQ Group: `941587776`
+- Discord: https://discord.gg/MMxXWFW7YA
 
 ---
 
