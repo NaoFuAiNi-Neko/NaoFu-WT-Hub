@@ -15,6 +15,7 @@ War Thunder custom font & UI — local Windows client
 
 [![Website](https://img.shields.io/badge/Website-naofuaini.com-38bdf8?style=flat-square)](https://naofuaini.com/)
 [![Discord](https://img.shields.io/badge/Discord-NaoFu-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/MMxXWFW7YA)
+[![Bilibili](https://img.shields.io/badge/Bilibili-NaoFu-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/405046590)
 [![GitHub Release](https://img.shields.io/github/v/release/NaoFuAiNi-Neko/NaoFu-WT-Hub?style=flat-square)](https://github.com/NaoFuAiNi-Neko/NaoFu-WT-Hub/releases)
 [![Downloads](https://img.shields.io/github/downloads/NaoFuAiNi-Neko/NaoFu-WT-Hub/total?style=flat-square&label=GitHub%20downloads)](https://github.com/NaoFuAiNi-Neko/NaoFu-WT-Hub/releases)
 [![License](https://img.shields.io/badge/Builds-Signed%20only-22c55e?style=flat-square)](https://naofuaini.com/)
