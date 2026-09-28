@@ -61,7 +61,7 @@ NaoFu WT Hub 是面向《战争雷霆》的 **Windows 本地工具**：
 
 1. **自定义字体** — 选字体 / 系统自带字体 → 生成并导入游戏  
 2. **自定义 UI** — atlases / images / tex 图标包下载与部署  
-3. **自定义文本** — 下载 RWR / 蓝莓等包，写入游戏 lang  
+3. **自定义文本** — 下载 RWR / 蓝莓，以及 Sparatoria_Fate 的局部补丁，写入游戏 lang  
 4. **在线公告 & 更新** — 验签清单，安全升级到新版本  
 
 ### 社区
@@ -95,7 +95,7 @@ NaoFu WT Hub 是面向《战争雷霆》的 **Windows 本地工具**：
 
 1. **Custom Font** — pick a font or built-in fonts → build & import  
 2. **Custom UI** — download & deploy icon packs  
-3. **Custom Text** — download RWR / Blueberry packs and write game lang files  
+3. **Custom Text** — download RWR, Blueberry, and Sparatoria_Fate's patch, then write game lang files  
 4. **Notice & Update** — signed manifests for safe upgrades  
 
 ### Get the real build
