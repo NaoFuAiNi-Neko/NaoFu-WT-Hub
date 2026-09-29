@@ -2,8 +2,8 @@
 
 # NaoFu WT Hub
 
-**战争雷霆自定义字体、自定义 UI 图标、自定义文本的本地客户端**  
-War Thunder custom font, UI icons & in-game text — local Windows client
+**战争雷霆自定义字体、自定义 UI 图标、自定义文本、自定义语音的本地客户端**  
+War Thunder custom font, UI icons, in-game text & voice — local Windows client
 
 <br/>
 
@@ -55,6 +55,7 @@ NaoFu WT Hub 是面向《战争雷霆》的 **Windows 本地工具**：
 - 自定义游戏字体（写入 `fonts.vromfs.bin`）
 - 自定义 UI 图标包一键部署
 - 自定义游戏内文本（lang）
+- 自定义语音（陆战、无线电、空战）
 - 支持签名自动更新
 
 ### 功能一览
@@ -62,7 +63,8 @@ NaoFu WT Hub 是面向《战争雷霆》的 **Windows 本地工具**：
 1. **自定义字体** — 选字体 / 系统自带字体 → 生成并导入游戏  
 2. **自定义 UI** — atlases / images / tex 图标包下载与部署  
 3. **自定义文本** — 下载 RWR / 蓝莓，以及 Sparatoria_Fate 的局部补丁，写入游戏 lang  
-4. **在线公告 & 更新** — 验签清单，安全升级到新版本  
+4. **自定义语音** — 陆战、无线电、空战分开做，也可以下载甘城的语音  
+5. **在线公告 & 更新** — 验签清单，安全升级到新版本  
 
 ### 社区
 
@@ -89,6 +91,7 @@ NaoFu WT Hub 是面向《战争雷霆》的 **Windows 本地工具**：
 - Custom in-game fonts
 - Custom UI icon packs
 - Custom in-game text (lang)
+- Custom voice (ground, radio, and air)
 - Signed auto-update
 
 ### Features
@@ -96,7 +99,8 @@ NaoFu WT Hub 是面向《战争雷霆》的 **Windows 本地工具**：
 1. **Custom Font** — pick a font or built-in fonts → build & import  
 2. **Custom UI** — download & deploy icon packs  
 3. **Custom Text** — download RWR, Blueberry, and Sparatoria_Fate's patch, then write game lang files  
-4. **Notice & Update** — signed manifests for safe upgrades  
+4. **Custom Voice** — ground, radio, and air are separate; Nacho Neko packs can be downloaded  
+5. **Notice & Update** — signed manifests for safe upgrades  
 
 ### Get the real build
 
@@ -113,7 +117,7 @@ This repository is a **signed-release mirror only** (no source code). GitHub Rel
 
 <div align="center">
 
-**WarThunder custom font, UI, and text.**
+**WarThunder custom font, UI, text, and voice.**
 
 [Download on naofuaini.com](https://naofuaini.com/)
 
